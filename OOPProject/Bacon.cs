@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OOPProject
 {
-    class Bacon : Food      //Inhearitance: This class has a name, calories, and total(fat, carbs, and protein).
+    class Bacon : Food      //Inheritance: This class has a name, calories, and total(fat, carbs, and protein).
 	{
 		public string Flavor { get; set; }
 	}
